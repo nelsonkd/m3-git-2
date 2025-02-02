@@ -60,3 +60,9 @@ Dianna Mega (dmega) dmega@asu.edu
 1. [BLS Skills Data](https://www.bls.gov/emp/data/skills-data.htm)
 2. [BLS Databases, Tables & Calculators by Subject](https://www.bls.gov/data/home.htm)
 3. [BLS Employment and Wages Data Viewer](https://data.bls.gov/cew/apps/data_views/data_views.htm#tab=Tables)
+
+# Proposed Tech Stack
+1. Python for data compiliation
+2. NestJS for server side features, such as api geneation and serving data to front-end
+3. Postgres for persistance
+4. React for visualization and user experience
