@@ -52,6 +52,11 @@ While our team possesses a strong balance of technical and non-technical skills,
 
 To foster effective collaboration and communication, we plan to implement a multi-faceted approach. We will hold two formal Zoom meetings per week on weekdays at 6:00 PM PST to accommodate our time zone differences, ensuring dedicated time for synchronous discussion and collaborative work. A brief check-in will be scheduled on Saturdays to maintain momentum, with final reviews conducted on Sundays. For quick questions and informal discussions, we will utilize iMessage, while longer discussions and document reviews will be conducted via email. This combination of scheduled meetings and flexible communication channels will ensure consistent interaction and facilitate efficient progress throughout the project.
 
-Contributors:
+# Contributors:
 Ken Nelson (kdnelso7) kdnelso7@asu.edu
 Dianna Mega (dmega) dmega@asu.edu
+
+# List of potential Data Source Repositories:
+1. [BLS Skills Data](https://www.bls.gov/emp/data/skills-data.htm)
+2. [BLS Databases, Tables & Calculators by Subject](https://www.bls.gov/data/home.htm)
+3. [BLS Employment and Wages Data Viewer](https://data.bls.gov/cew/apps/data_views/data_views.htm#tab=Tables)
