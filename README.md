@@ -26,10 +26,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam rhoncus facilisis
 [Markdown Guide: Markdown Cheetsheet](https://www.markdownguide.org/cheat-sheet/)
 
 ## This assignment Rubric
-| Criteria | Ratings | Pts | Checked |
+| Criteria | Deecription | Pts | Checked |
 | ----------- | ----------- | ----------- | ----------- |
-| This criterion is linked to a Learning OutcomeLevel one headings | There are two level one headings | 2 pts | X |
-| This criterion is linked to a Learning OutcomeLevel tow headings | There are two level two headings | 2 pts | X |
-| This criterion is linked to a Learning OutcomeList | There is a list | 2 pts | X |
-| This criterion is linked to a Learning OutcomeLink | There is a link | 2 pts | X |
-| This criterion is linked to a Learning OutcomeProper Markdown | The file is in proper Markdown. | 2 pts | X |
+| Level one headings | There are two level one headings | 2 pts | X |
+| Level two headings | There are two level two headings | 2 pts | X |
+| List | There is a list | 2 pts | X |
+| Link | There is a link | 2 pts | X |
+| Proper Markdown | The file is in proper Markdown. | 2 pts | X |
